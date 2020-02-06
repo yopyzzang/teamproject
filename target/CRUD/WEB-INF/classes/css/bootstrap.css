@@ -898,6 +898,7 @@ pre code {
   margin-left: auto;
   padding-left: 15px;
   padding-right: 15px;
+
 }
 .container-fluid:before, .container-fluid:after {
   content: " ";
@@ -908,8 +909,14 @@ pre code {
 }
 
 .row {
+
   margin-left: -15px;
   margin-right: -15px;
+}
+.row_header{
+  margin-left: -15px;
+  margin-right: -15px;
+  color: #00b3ee;
 }
 .row:before, .row:after {
   content: " ";
