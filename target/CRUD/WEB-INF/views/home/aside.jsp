@@ -39,7 +39,7 @@
                     </div>
                 </div>
             </li>
-            <li style="background-image: url(images/img_bg_5.jpg);">
+            <li style="background-image: url(../../../resources/images/img_bg_5.jpg);">
                 <div class="overlay"></div>
                 <div class="container-fluids">
                     <div class="row">
@@ -52,7 +52,7 @@
                     </div>
                 </div>
             </li>
-            <li style="background-image: url(images/img_bg_4.jpg);">
+            <li style="background-image: url(../../../resources/images/img_bg_4.jpg);">
                 <div class="overlay"></div>
                 <div class="container-fluid">
                     <div class="row">
@@ -155,7 +155,7 @@
                 <div class="owl-carousel">
                     <div class="item">
                         <div class="hotel-entry">
-                            <a href="hotels.html" class="hotel-img" style="background-image: url(images/hotel-1.jpg);">
+                            <a href="hotels.html" class="hotel-img" style="background-image: url(../../../resources/images/hotel-1.jpg);">
                                 <p class="price"><span>$120</span><small> /night</small></p>
                             </a>
                             <div class="desc">
@@ -168,7 +168,7 @@
                     </div>
                     <div class="item">
                         <div class="hotel-entry">
-                            <a href="hotels.html" class="hotel-img" style="background-image: url(images/hotel-2.jpg);">
+                            <a href="hotels.html" class="hotel-img" style="background-image: url(../../../resources/images/hotel-2.jpg);">
                                 <p class="price"><span>$120</span><small> /night</small></p>
                             </a>
                             <div class="desc">
@@ -181,7 +181,7 @@
                     </div>
                     <div class="item">
                         <div class="hotel-entry">
-                            <a href="hotels.html" class="hotel-img" style="background-image: url(images/hotel-3.jpg);">
+                            <a href="hotels.html" class="hotel-img" style="background-image: url(../../../resources/images/hotel-3.jpg);">
                                 <p class="price"><span>$120</span><small> /night</small></p>
                             </a>
                             <div class="desc">
@@ -194,7 +194,7 @@
                     </div>
                     <div class="item">
                         <div class="hotel-entry">
-                            <a href="hotels.html" class="hotel-img" style="background-image: url(images/hotel-4.jpg);">
+                            <a href="hotels.html" class="hotel-img" style="background-image: url(../../../resources/images/hotel-4.jpg);">
                                 <p class="price"><span>$120</span><small> /night</small></p>
                             </a>
                             <div class="desc">
@@ -222,7 +222,7 @@
     </div>
     <div class="tour-wrap">
         <a href="#" class="tour-entry animate-box">
-            <div class="tour-img" style="background-image: url(images/tour-1.jpg);">
+            <div class="tour-img" style="background-image: url(../../../resources/images/tour-1.jpg);">
             </div>
             <span class="desc">
                         <p class="star"><span><i class="icon-star-full"></i><i class="icon-star-full"></i><i class="icon-star-full"></i><i class="icon-star-full"></i><i class="icon-star-full"></i></span> 545 Reviews</p>
@@ -232,7 +232,7 @@
                     </span>
         </a>
         <a href="#" class="tour-entry animate-box">
-            <div class="tour-img" style="background-image: url(images/tour-2.jpg);">
+            <div class="tour-img" style="background-image: url(../../../resources/images/tour-2.jpg);">
             </div>
             <span class="desc">
                         <p class="star"><span><i class="icon-star-full"></i><i class="icon-star-full"></i><i class="icon-star-full"></i><i class="icon-star-full"></i><i class="icon-star-full"></i></span> 545 Reviews</p>
@@ -242,7 +242,7 @@
                     </span>
         </a>
         <a href="#" class="tour-entry animate-box">
-            <div class="tour-img" style="background-image: url(images/tour-3.jpg);">
+            <div class="tour-img" style="background-image: url(../../../resources/images/tour-3.jpg);">
             </div>
             <span class="desc">
                         <p class="star"><span><i class="icon-star-full"></i><i class="icon-star-full"></i><i class="icon-star-full"></i><i class="icon-star-full"></i><i class="icon-star-full"></i></span> 545 Reviews</p>
@@ -252,7 +252,7 @@
                     </span>
         </a>
         <a href="#" class="tour-entry animate-box">
-            <div class="tour-img" style="background-image: url(images/tour-4.jpg);">
+            <div class="tour-img" style="background-image: url(../../../resources/images/tour-4.jpg);">
             </div>
             <span class="desc">
                         <p class="star"><span><i class="icon-star-full"></i><i class="icon-star-full"></i><i class="icon-star-full"></i><i class="icon-star-full"></i><i class="icon-star-full"></i></span> 545 Reviews</p>

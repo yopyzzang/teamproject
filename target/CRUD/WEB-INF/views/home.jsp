@@ -102,7 +102,7 @@
     <aside id="colorlib-hero">
         <div class="flexslider">
             <ul class="slides">
-                <li style="background-image: url(images/img_bg_1.jpg);">
+                <li style="background-image: url(../../resources/images/img_bg_1.jpg);">
                     <div class="overlay"></div>
                     <div class="container-fluid">
                         <div class="row">
@@ -115,7 +115,7 @@
                         </div>
                     </div>
                 </li>
-                <li style="background-image: url(images/img_bg_2.jpg);">
+                <li style="background-image: url(../../resources/images/img_bg_2.jpg);">
                     <div class="overlay"></div>
                     <div class="container-fluid">
                         <div class="row">
@@ -128,7 +128,7 @@
                         </div>
                     </div>
                 </li>
-                <li style="background-image: url(images/img_bg_5.jpg);">
+                <li style="background-image: url(../../resources/images/img_bg_5.jpg);">
                     <div class="overlay"></div>
                     <div class="container-fluids">
                         <div class="row">
@@ -141,7 +141,7 @@
                         </div>
                     </div>
                 </li>
-                <li style="background-image: url(images/img_bg_4.jpg);">
+                <li style="background-image: url(../../resources/images/img_bg_4.jpg);">
                     <div class="overlay"></div>
                     <div class="container-fluid">
                         <div class="row">
@@ -404,7 +404,7 @@
     </div>
     <div class="tour-wrap">
         <a href="#" class="tour-entry animate-box">
-            <div class="tour-img" style="background-image: url(images/tour-1.jpg);">
+            <div class="tour-img" style="background-image: url(../../resources/images/tour-1.jpg);">
             </div>
             <span class="desc">
 						<p class="star"><span><i class="icon-star-full"></i><i class="icon-star-full"></i><i class="icon-star-full"></i><i class="icon-star-full"></i><i class="icon-star-full"></i></span> 545 Reviews</p>
@@ -414,7 +414,7 @@
 					</span>
         </a>
         <a href="#" class="tour-entry animate-box">
-            <div class="tour-img" style="background-image: url(images/tour-2.jpg);">
+            <div class="tour-img" style="background-image: url(../../resources/images/tour-2.jpg);">
             </div>
             <span class="desc">
 						<p class="star"><span><i class="icon-star-full"></i><i class="icon-star-full"></i><i class="icon-star-full"></i><i class="icon-star-full"></i><i class="icon-star-full"></i></span> 545 Reviews</p>
@@ -424,7 +424,7 @@
 					</span>
         </a>
         <a href="#" class="tour-entry animate-box">
-            <div class="tour-img" style="background-image: url(images/tour-3.jpg);">
+            <div class="tour-img" style="background-image: url(../../resources/images/tour-3.jpg);">
             </div>
             <span class="desc">
 						<p class="star"><span><i class="icon-star-full"></i><i class="icon-star-full"></i><i class="icon-star-full"></i><i class="icon-star-full"></i><i class="icon-star-full"></i></span> 545 Reviews</p>
@@ -434,7 +434,7 @@
 					</span>
         </a>
         <a href="#" class="tour-entry animate-box">
-            <div class="tour-img" style="background-image: url(images/tour-4.jpg);">
+            <div class="tour-img" style="background-image: url(../../resources/images/tour-4.jpg);">
             </div>
             <span class="desc">
 						<p class="star"><span><i class="icon-star-full"></i><i class="icon-star-full"></i><i class="icon-star-full"></i><i class="icon-star-full"></i><i class="icon-star-full"></i></span> 545 Reviews</p>
@@ -444,7 +444,7 @@
 					</span>
         </a>
         <a href="#" class="tour-entry animate-box">
-            <div class="tour-img" style="background-image: url(images/tour-5.jpg);">
+            <div class="tour-img" style="background-image: url(../../resources/images/tour-5.jpg);">
             </div>
             <span class="desc">
 						<p class="star"><span><i class="icon-star-full"></i><i class="icon-star-full"></i><i class="icon-star-full"></i><i class="icon-star-full"></i><i class="icon-star-full"></i></span> 545 Reviews</p>
@@ -454,7 +454,7 @@
 					</span>
         </a>
         <a href="#" class="tour-entry animate-box">
-            <div class="tour-img" style="background-image: url(images/tour-6.jpg);">
+            <div class="tour-img" style="background-image: url(../../resources/images/tour-6.jpg);">
             </div>
             <span class="desc">
 						<p class="star"><span><i class="icon-star-full"></i><i class="icon-star-full"></i><i class="icon-star-full"></i><i class="icon-star-full"></i><i class="icon-star-full"></i></span> 545 Reviews</p>
@@ -464,7 +464,7 @@
 					</span>
         </a>
         <a href="#" class="tour-entry animate-box">
-            <div class="tour-img" style="background-image: url(images/tour-7.jpg);">
+            <div class="tour-img" style="background-image: url(../../resources/images/tour-7.jpg);">
             </div>
             <span class="desc">
 						<p class="star"><span><i class="icon-star-full"></i><i class="icon-star-full"></i><i class="icon-star-full"></i><i class="icon-star-full"></i><i class="icon-star-full"></i></span> 545 Reviews</p>
@@ -474,7 +474,7 @@
 					</span>
         </a>
         <a href="#" class="tour-entry animate-box">
-            <div class="tour-img" style="background-image: url(images/tour-8.jpg);">
+            <div class="tour-img" style="background-image: url(../../resources/images/tour-8.jpg);">
             </div>
             <span class="desc">
 						<p class="star"><span><i class="icon-star-full"></i><i class="icon-star-full"></i><i class="icon-star-full"></i><i class="icon-star-full"></i><i class="icon-star-full"></i></span> 545 Reviews</p>
@@ -496,13 +496,13 @@
             </div>
         </div>
         <div class="blog-flex">
-            <div class="f-entry-img" style="background-image: url(images/blog-3.jpg);">
+            <div class="f-entry-img" style="background-image: url(../../resources/images/blog-3.jpg);">
             </div>
             <div class="blog-entry aside-stretch-right">
                 <div class="row">
                     <div class="col-md-12 animate-box">
                         <a href="blog.html" class="blog-post">
-                            <span class="img" style="background-image: url(images/blog-1.jpg);"></span>
+                            <span class="img" style="background-image: url(../../resources/images/blog-1.jpg);"></span>
                             <div class="desc">
                                 <span class="date">Feb 22, 2018</span>
                                 <h3>A Definitive Guide to the Best Dining</h3>
@@ -512,7 +512,7 @@
                     </div>
                     <div class="col-md-12 animate-box">
                         <a href="blog.html" class="blog-post">
-                            <span class="img" style="background-image: url(images/blog-2.jpg);"></span>
+                            <span class="img" style="background-image: url(../../resources/images/blog-2.jpg);"></span>
                             <div class="desc">
                                 <span class="date">Feb 22, 2018</span>
                                 <h3>How These 5 People Found The Path to Their Dream Trip</h3>
@@ -522,7 +522,7 @@
                     </div>
                     <div class="col-md-12 animate-box">
                         <a href="blog.html" class="blog-post">
-                            <span class="img" style="background-image: url(images/blog-4.jpg);"></span>
+                            <span class="img" style="background-image: url(../../resources/images/blog-4.jpg);"></span>
                             <div class="desc">
                                 <span class="date">Feb 22, 2018</span>
                                 <h3>Our Secret Island Boat Tour Is just for You</h3>
@@ -536,7 +536,7 @@
     </div>
 </div>
 
-<div id="colorlib-intro" class="intro-img" style="background-image: url(images/cover-img-1.jpg);" data-stellar-background-ratio="0.5">
+<div id="colorlib-intro" class="intro-img" style="background-image: url(../../resources/images/cover-img-1.jpg);" data-stellar-background-ratio="0.5">
     <div class="overlay"></div>
     <div class="container">
         <div class="row">
@@ -563,7 +563,7 @@
             </div>
             <div class="col-md-6 animate-box">
                 <div class="video-wrap">
-                    <div class="video colorlib-video" style="background-image: url(images/img_bg_2.jpg);">
+                    <div class="video colorlib-video" style="background-image: url(../../resources/images/img_bg_2.jpg);">
                         <a href="https://vimeo.com/channels/staffpicks/93951774" class="popup-vimeo"><i class="icon-video"></i></a>
                         <div class="video-overlay"></div>
                     </div>
@@ -586,7 +586,7 @@
                 <div class="owl-carousel">
                     <div class="item">
                         <div class="hotel-entry">
-                            <a href="hotels.html" class="hotel-img" style="background-image: url(images/hotel-1.jpg);">
+                            <a href="hotels.html" class="hotel-img" style="background-image: url(../../resources/images/hotel-1.jpg);">
                                 <p class="price"><span>$120</span><small> /night</small></p>
                             </a>
                             <div class="desc">
@@ -599,7 +599,7 @@
                     </div>
                     <div class="item">
                         <div class="hotel-entry">
-                            <a href="hotels.html" class="hotel-img" style="background-image: url(images/hotel-2.jpg);">
+                            <a href="hotels.html" class="hotel-img" style="background-image: url(../../resources/images/hotel-2.jpg);">
                                 <p class="price"><span>$120</span><small> /night</small></p>
                             </a>
                             <div class="desc">
@@ -612,7 +612,7 @@
                     </div>
                     <div class="item">
                         <div class="hotel-entry">
-                            <a href="hotels.html" class="hotel-img" style="background-image: url(images/hotel-3.jpg);">
+                            <a href="hotels.html" class="hotel-img" style="background-image: url(../../resources/images/hotel-3.jpg);">
                                 <p class="price"><span>$120</span><small> /night</small></p>
                             </a>
                             <div class="desc">
@@ -625,7 +625,7 @@
                     </div>
                     <div class="item">
                         <div class="hotel-entry">
-                            <a href="hotels.html" class="hotel-img" style="background-image: url(images/hotel-4.jpg);">
+                            <a href="hotels.html" class="hotel-img" style="background-image: url(../../resources/images/hotel-4.jpg);">
                                 <p class="price"><span>$120</span><small> /night</small></p>
                             </a>
                             <div class="desc">
@@ -655,7 +655,7 @@
                 <div class="owl-carousel2">
                     <div class="item">
                         <div class="testimony text-center">
-                            <span class="img-user" style="background-image: url(images/person1.jpg);"></span>
+                            <span class="img-user" style="background-image: url(../../resources/images/person1.jpg);"></span>
                             <span class="user">Alysha Myers</span>
                             <small>Miami Florida, USA</small>
                             <blockquote>
@@ -665,7 +665,7 @@
                     </div>
                     <div class="item">
                         <div class="testimony text-center">
-                            <span class="img-user" style="background-image: url(images/person2.jpg);"></span>
+                            <span class="img-user" style="background-image: url(../../resources/images/person2.jpg);"></span>
                             <span class="user">James Fisher</span>
                             <small>New York, USA</small>
                             <blockquote>
@@ -675,7 +675,7 @@
                     </div>
                     <div class="item">
                         <div class="testimony text-center">
-                            <span class="img-user" style="background-image: url(images/person3.jpg);"></span>
+                            <span class="img-user" style="background-image: url(../../resources/images/person3.jpg);"></span>
                             <span class="user">Jacob Webb</span>
                             <small>Athens, Greece</small>
                             <blockquote>
@@ -704,7 +704,7 @@
                         <div class="col-md-6">
                             <div class="row">
                                 <div class="col-md-6 animate-box">
-                                    <a  href="tours.html" class="f-tour-img" style="background-image: url(images/tour-1.jpg);">
+                                    <a  href="tours.html" class="f-tour-img" style="background-image: url(../../resources/images/tour-1.jpg);">
                                         <div class="desc">
                                             <h3>Rome - 5 Days</h3>
                                             <p class="price"><span>$120</span> <small>/ person</small></p>
@@ -712,7 +712,7 @@
                                     </a>
                                 </div>
                                 <div class="col-md-6 animate-box">
-                                    <a  href="tours.html" class="f-tour-img" style="background-image: url(images/tour-2.jpg);">
+                                    <a  href="tours.html" class="f-tour-img" style="background-image: url(../../resources/images/tour-2.jpg);">
                                         <div class="desc">
                                             <h3>Rome - 5 Days</h3>
                                             <p class="price"><span>$120</span> <small>/ person</small></p>
@@ -720,7 +720,7 @@
                                     </a>
                                 </div>
                                 <div class="col-md-6 animate-box">
-                                    <a  href="tours.html" class="f-tour-img" style="background-image: url(images/tour-3.jpg);">
+                                    <a  href="tours.html" class="f-tour-img" style="background-image: url(../../resources/images/tour-3.jpg);">
                                         <div class="desc">
                                             <h3>Rome - 5 Days</h3>
                                             <p class="price"><span>$120</span> <small>/ person</small></p>
@@ -728,7 +728,7 @@
                                     </a>
                                 </div>
                                 <div class="col-md-6 animate-box">
-                                    <a  href="tours.html" class="f-tour-img" style="background-image: url(images/tour-4.jpg);">
+                                    <a  href="tours.html" class="f-tour-img" style="background-image: url(../../resources/images/tour-4.jpg);">
                                         <div class="desc">
                                             <h3>Rome - 5 Days</h3>
                                             <p class="price"><span>$120</span> <small>/ person</small></p>
@@ -785,7 +785,7 @@
                         <div class="col-md-6 col-md-push-6">
                             <div class="row">
                                 <div class="col-md-6 animate-box">
-                                    <a  href="tours.html" class="f-tour-img" style="background-image: url(images/tour-5.jpg);">
+                                    <a  href="tours.html" class="f-tour-img" style="background-image: url(../../resources/images/tour-5.jpg);">
                                         <div class="desc">
                                             <h3>Rome - 5 Days</h3>
                                             <p class="price"><span>$120</span> <small>/ person</small></p>
@@ -793,7 +793,7 @@
                                     </a>
                                 </div>
                                 <div class="col-md-6 animate-box">
-                                    <a  href="tours.html" class="f-tour-img" style="background-image: url(images/tour-6.jpg);">
+                                    <a  href="tours.html" class="f-tour-img" style="background-image: url(../../resources/images/tour-6.jpg);">
                                         <div class="desc">
                                             <h3>Rome - 5 Days</h3>
                                             <p class="price"><span>$120</span> <small>/ person</small></p>
@@ -801,7 +801,7 @@
                                     </a>
                                 </div>
                                 <div class="col-md-6 animate-box">
-                                    <a  href="tours.html" class="f-tour-img" style="background-image: url(images/tour-7.jpg);">
+                                    <a  href="tours.html" class="f-tour-img" style="background-image: url(../../resources/images/tour-7.jpg);">
                                         <div class="desc">
                                             <h3>Rome - 5 Days</h3>
                                             <p class="price"><span>$120</span> <small>/ person</small></p>
@@ -809,7 +809,7 @@
                                     </a>
                                 </div>
                                 <div class="col-md-6 animate-box">
-                                    <a  href="tours.html" class="f-tour-img" style="background-image: url(images/tour-8.jpg);">
+                                    <a  href="tours.html" class="f-tour-img" style="background-image: url(../../resources/images/tour-8.jpg);">
                                         <div class="desc">
                                             <h3>Rome - 5 Days</h3>
                                             <p class="price"><span>$120</span> <small>/ person</small></p>
@@ -866,7 +866,7 @@
 </div>
 
 
-<div id="colorlib-subscribe" style="background-image: url(images/img_bg_2.jpg);" data-stellar-background-ratio="0.5">
+<div id="colorlib-subscribe" style="background-image: url(../../resources/images/img_bg_2.jpg);" data-stellar-background-ratio="0.5">
     <div class="overlay"></div>
     <div class="container">
         <div class="row">

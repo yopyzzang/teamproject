@@ -15,20 +15,20 @@
     -->
 
     <!-- DataSource log4jdbc-log4j2 설정 -->
-    <bean id="dataSource" class="org.apache.commons.dbcp2.BasicDataSource" destroy-method="close">
+    <bean id="dataSource" class="org.springframework.jdbc.datasource.DriverManagerDataSource" >
         <property name="driverClassName" value="net.sf.log4jdbc.sql.jdbcapi.DriverSpy"/>
-        <property name="url" value="jdbc:oracle:thin:@localhost:1521/XEPDB1"/>
+        <property name="url" value="jdbc:log4jdbc:mysql://localhost:3306/test?serverTimezone=UTC"/>
         <property name="username" value="yopy"/>
-        <property name="password" value="yopy"/>
+        <property name="password" value="020211"/>
     </bean>
 
     <!-- SqlSessionFactory 설정 : dataSource 참조 , mybatis-config.xml 경로설정 -->
     <bean id="sqlSessionFactory" class="org.mybatis.spring.SqlSessionFactoryBean">
         <property name="dataSource" ref="dataSource"/>
         <property name="configLocation" value="classpath:/mybatis-config.xml"/>
-        <!--
+
         <property name="mapperLocations" value="classpath:mappers/**/*Mapper.xml"/>
-        -->
+
     </bean>
 
     <bean id="sqlSession" class="org.mybatis.spring.SqlSessionTemplate" destroy-method="clearCache">

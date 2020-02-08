@@ -21,7 +21,7 @@
                     <ul>
                         <li class="active"><a href="#">공지사항</a></li>
                         <li class="has-dropdown"><a href="#">이벤트</a>    </li>
-                        <li><a href="#">FAQ</a></li>
+                        <li><a href="list">FAQ</a></li>
                         <li><a href="register/login.html">로그인</a></li>
                     </ul>
                 </div>

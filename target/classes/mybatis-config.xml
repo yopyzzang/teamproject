@@ -4,6 +4,9 @@
         "http://mybatis.org/dtd/mybatis-3-config.dtd">
 <configuration>
 <typeAliases>
-    <package name="com.yopy.mvcboard"/>
+    <typeAlias type="com.yopy.mvcboard.article.domain.ArticleVO" alias="ArticleVO"/>
 </typeAliases>
+    <mappers>
+        <mapper resource="mappers.article/articleMapper.xml"/>
+    </mappers>
 </configuration>
